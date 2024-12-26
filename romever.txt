@@ -1,2 +1,3 @@
 payload:
   - DOMAIN-SUFFIX,romever.top
+  - DOMAIN-SUFFIX,romever.fun
