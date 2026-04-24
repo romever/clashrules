@@ -3,4 +3,3 @@ payload:
   - '+.romever.fun'
   - '+.3ppp.top'
   - '+.myds.me'
-  - '100.119.108.17'
